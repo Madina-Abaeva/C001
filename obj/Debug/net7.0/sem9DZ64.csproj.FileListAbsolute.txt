@@ -1,0 +1,15 @@
+C:\C001\sem9DZ64\bin\Debug\net7.0\sem9DZ64.exe
+C:\C001\sem9DZ64\bin\Debug\net7.0\sem9DZ64.deps.json
+C:\C001\sem9DZ64\bin\Debug\net7.0\sem9DZ64.runtimeconfig.json
+C:\C001\sem9DZ64\bin\Debug\net7.0\sem9DZ64.dll
+C:\C001\sem9DZ64\bin\Debug\net7.0\sem9DZ64.pdb
+C:\C001\sem9DZ64\obj\Debug\net7.0\sem9DZ64.csproj.AssemblyReference.cache
+C:\C001\sem9DZ64\obj\Debug\net7.0\sem9DZ64.GeneratedMSBuildEditorConfig.editorconfig
+C:\C001\sem9DZ64\obj\Debug\net7.0\sem9DZ64.AssemblyInfoInputs.cache
+C:\C001\sem9DZ64\obj\Debug\net7.0\sem9DZ64.AssemblyInfo.cs
+C:\C001\sem9DZ64\obj\Debug\net7.0\sem9DZ64.csproj.CoreCompileInputs.cache
+C:\C001\sem9DZ64\obj\Debug\net7.0\sem9DZ64.dll
+C:\C001\sem9DZ64\obj\Debug\net7.0\refint\sem9DZ64.dll
+C:\C001\sem9DZ64\obj\Debug\net7.0\sem9DZ64.pdb
+C:\C001\sem9DZ64\obj\Debug\net7.0\sem9DZ64.genruntimeconfig.cache
+C:\C001\sem9DZ64\obj\Debug\net7.0\ref\sem9DZ64.dll
