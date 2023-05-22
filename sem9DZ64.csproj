@@ -1,10 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk">
+//Задача 64: Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от N до 1. Выполнить с помощью рекурсии.
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net7.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-
-</Project>
+string num(int a)
+{
+if (a>1) return $"{a}, "+num(a-1);
+return "1";
+}
+Console.WriteLine(num(5));
